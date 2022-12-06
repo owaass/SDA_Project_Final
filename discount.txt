@@ -1,0 +1,6 @@
+1xyz 30
+1abc 25
+1mno 15
+2xyz 45
+3abc 35
+4mno 5

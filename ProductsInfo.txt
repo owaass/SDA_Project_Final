@@ -1,0 +1,4 @@
+0 10000 20 Green Frock 
+1 3450 30 Black Printed Kurta 
+2 2500 40 Pink sweatshirt 
+3 5500 28 Orange Khaddar shawl 

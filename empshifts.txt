@@ -1,0 +1,15 @@
+1/Usama Khan/k1/10am-3pm
+2/Haris Masood/k1/3pm-8pm
+3/Nauman Moazzam Hayat/k1/10am-3pm
+4/Atif Aslam/k1/3pm-8pm
+5/Abdul Razzaq/k1/10am-3pm
+6/Muhammad Irteza/k2/10am-3pm
+7/Salman Mubarik/k2/3pm-8pm
+8/Muhammad Yousuf/k2/10am-3pm
+9/Shoaib Malik/k2/3pm-8pm
+10/Waqar Younus/k2/10am-3pm
+11/Imran Nazir/k2/3pm-8pm
+12/Rashid Latif/k1/3am-8pm
+13/Shahid Afridi/k1/10am-3pm
+14/Moin Khan/k2/10am-3pm
+15/Waseem Akram/k1/3pm-8pm

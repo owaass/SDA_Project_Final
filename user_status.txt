@@ -1,0 +1,6 @@
+1 silver
+2 platinum
+3 silver
+5 gold
+6 platinum
+9 silver
